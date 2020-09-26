@@ -40,8 +40,6 @@ namespace _01LinqToEntity
             List<PFEP_Master> pfeps = new List<PFEP_Master>() { pfep1, pfep2, pfep3 };
 
             //ToDo : add Linq
-            var inBoth = boards.Where(b => containers.Exists(c => c.PartNumber.Equals(b.PartNumber))
-            && containers.Exists(c => c.ContainerType.Equals(b.ContainerType))).ToList();
 
             var result = boards.Join(containers, c => c.PartNumber, b => b.PartNumber, (b, c) => new { b, c }).Where(w => w.c.ContainerType == w.b.ContainerType)
                 .GroupJoin(pfeps, a => a.b.PartNumber, p => p.PartNumber, (a, p) => p.DefaultIfEmpty().Select(z => new KanbanDTO

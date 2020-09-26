@@ -24,3 +24,16 @@ C:\Users\Administrator\Desktop\陈昌添20200923\Tech_Test_v3\test\obj\Debug\net
 C:\Users\Administrator\Desktop\陈昌添20200923\Tech_Test_v3\test\obj\Debug\netcoreapp3.1\test.dll
 C:\Users\Administrator\Desktop\陈昌添20200923\Tech_Test_v3\test\obj\Debug\netcoreapp3.1\test.pdb
 C:\Users\Administrator\Desktop\陈昌添20200923\Tech_Test_v3\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\test\bin\Debug\netcoreapp3.1\test.exe
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\test\bin\Debug\netcoreapp3.1\test.deps.json
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\test\bin\Debug\netcoreapp3.1\test.dll
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\test\bin\Debug\netcoreapp3.1\test.pdb
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\test\obj\Debug\netcoreapp3.1\test.dll
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\test\obj\Debug\netcoreapp3.1\test.pdb
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache

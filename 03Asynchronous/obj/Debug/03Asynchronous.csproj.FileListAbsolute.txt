@@ -40,3 +40,17 @@ F:\Exercises\20200924\tata20200923\Tech_Test_v3\03Asynchronous\obj\Debug\03Async
 F:\Exercises\20200924\tata20200923\Tech_Test_v3\03Asynchronous\obj\Debug\03Asynchronous.csproj.CoreCompileInputs.cache
 F:\Exercises\20200924\tata20200923\Tech_Test_v3\03Asynchronous\obj\Debug\03Asynchronous.exe
 F:\Exercises\20200924\tata20200923\Tech_Test_v3\03Asynchronous\obj\Debug\03Asynchronous.pdb
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\03Asynchronous\bin\Debug\03Asynchronous.exe.config
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\03Asynchronous\bin\Debug\03Asynchronous.exe
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\03Asynchronous\bin\Debug\03Asynchronous.pdb
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\03Asynchronous\obj\Debug\03Asynchronous.csprojAssemblyReference.cache
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\03Asynchronous\obj\Debug\MainWindow.baml
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\03Asynchronous\obj\Debug\MainWindow.g.cs
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\03Asynchronous\obj\Debug\App.g.cs
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\03Asynchronous\obj\Debug\03Asynchronous_MarkupCompile.cache
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\03Asynchronous\obj\Debug\03Asynchronous.g.resources
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\03Asynchronous\obj\Debug\_03Asynchronous.Properties.Resources.resources
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\03Asynchronous\obj\Debug\03Asynchronous.csproj.GenerateResource.cache
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\03Asynchronous\obj\Debug\03Asynchronous.csproj.CoreCompileInputs.cache
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\03Asynchronous\obj\Debug\03Asynchronous.exe
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\20200924exercises\03Asynchronous\obj\Debug\03Asynchronous.pdb
