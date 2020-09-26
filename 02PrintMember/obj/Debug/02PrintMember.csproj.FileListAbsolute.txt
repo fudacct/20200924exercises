@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\20200923\Tech_Test_v3\02PrintMember\obj\Debug\02PrintMember.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\20200923\Tech_Test_v3\02PrintMember\obj\Debug\02PrintMember.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\陈昌添20200923\Tech_Test_v3\02PrintMember\bin\Debug\02PrintMember.exe.config
+C:\Users\Administrator\Desktop\陈昌添20200923\Tech_Test_v3\02PrintMember\bin\Debug\02PrintMember.exe
+C:\Users\Administrator\Desktop\陈昌添20200923\Tech_Test_v3\02PrintMember\bin\Debug\02PrintMember.pdb
+C:\Users\Administrator\Desktop\陈昌添20200923\Tech_Test_v3\02PrintMember\obj\Debug\02PrintMember.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\陈昌添20200923\Tech_Test_v3\02PrintMember\obj\Debug\02PrintMember.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\陈昌添20200923\Tech_Test_v3\02PrintMember\obj\Debug\02PrintMember.exe
+C:\Users\Administrator\Desktop\陈昌添20200923\Tech_Test_v3\02PrintMember\obj\Debug\02PrintMember.pdb
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\02PrintMember\bin\Debug\02PrintMember.exe.config
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\02PrintMember\bin\Debug\02PrintMember.exe
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\02PrintMember\bin\Debug\02PrintMember.pdb
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\02PrintMember\obj\Debug\02PrintMember.csprojAssemblyReference.cache
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\02PrintMember\obj\Debug\02PrintMember.csproj.CoreCompileInputs.cache
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\02PrintMember\obj\Debug\02PrintMember.exe
+F:\Exercises\20200924\tata20200923\Tech_Test_v3\02PrintMember\obj\Debug\02PrintMember.pdb

@@ -1,0 +1,36 @@
+﻿Employee 表包含所有员工信息，每个员工有其对应的工号 Id，姓名 Name，工资 Salary 和部门编号 DepartmentName 。						
+						
++----+-------+--------+--------------+						
+| Id | Name  | Salary | DepartmentName |						
++----+-------+--------+--------------+						
+| 1  | Joe   | 85000  | IT           |						
+| 2  | Henry | 80000  | Sales            |						
+| 3  | Sam   | 60000  | Sales            |						
+| 4  | Max   | 90000  | IT            |						
+| 5  | Janet | 69000  | IT           |						
+| 6  | Randy | 85000  | IT            |						
+| 7  | Will  | 70000  | IT            |						
+| 8  | Owen  | 70000  | ME            |						
++----+-------+--------+--------------+						
+Department 表包含公司所有部门的信息。						
+						
++----+----------+						
+| Id | Name     |						
++----+----------+						
+| 1  | IT       |						
+| 2  | Sales    |						
++----+----------+						
+编写一个 SQL 查询，找出包含在部门表中且每个部门获得前三高工资的所有员工。	
+
+
+/***********************************SQL*******************************************/
+
+SELECT *
+FROM Employee E1
+WHERE
+(
+SELECT COUNT(1)
+FROM Employee E2
+WHERE E1.DepartmentName=E2.DepartmentName AND E2.Salary>=E1.Salary  
+)<=3
+AND E1.DepartmentName IN (SELECT NAME FROM Department) 
